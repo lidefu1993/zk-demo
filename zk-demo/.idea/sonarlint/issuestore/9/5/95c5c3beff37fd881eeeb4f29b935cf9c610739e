@@ -1,0 +1,11 @@
+
+dsquid:S1075	"ARefactor your code to get this URI from a customizable parameter.(¶κζ¶ύÿÿÿÿ8Μ…άθ,
+Ssquid:S1444	"0Make this "public static parentPath" field final(¶κζ¶ύÿÿÿÿ8Μ…άθ,
+Ssquid:S1444
+"0Make this "public static configPath" field final(¶½ϊÿÿÿÿÿ8Μ…άθ,
+"squid:ClassVariableVisibilityCheck	"VMake parentPath a static final constant or non-public and provide accessors if needed.(¶κζ¶ύÿÿÿÿ8Μ…άθ,
+"squid:ClassVariableVisibilityCheck
+"VMake configPath a static final constant or non-public and provide accessors if needed.(¶½ϊÿÿÿÿÿ8Μ…άθ,
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(υι—ο8Μ…άθ,
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Πµζ™8Μ…άθ,
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ΜµΔύϋÿÿÿÿ8Μ…άθ,

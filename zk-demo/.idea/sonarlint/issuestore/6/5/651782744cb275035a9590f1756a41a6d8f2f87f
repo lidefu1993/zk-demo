@@ -1,0 +1,9 @@
+
+Jsquid:S1068",Remove this unused "dbConfig" private field.(“είΡ8Ρ›άθ,
+usquid:S1450"WRemove the "dbConfig" field and declare it as a local variable in the relevant methods.(“είΡ8Ρ›άθ,
+xsquid:S1450"URemove the "client" field and declare it as a local variable in the relevant methods.(ΰ’ϊÿÿÿÿ8Ρ›άθ,
+jsquid:S2095-"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(™ΐ”²8Ρ›άθ,
+]squid:S1118":Add a private constructor to hide the implicit public one.(¨¥—―ύÿÿÿÿ8Ρ›άθ,
+Fsquid:S1148&"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8Ρ›άθ,
+Fsquid:S11482"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8Ρ›άθ,
+Fsquid:S11484"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8Ρ›άθ,
